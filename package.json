@@ -1,0 +1,23 @@
+{
+  "name": "FirearmToken",
+  "version": "1.0.0",
+  "description": "The main ERC721 token used in GunGuard to represent each and every single firearm ever.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheCreativeFoundation/FirearmToken.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheCreativeFoundation/FirearmToken/issues"
+  },
+  "homepage": "https://github.com/TheCreativeFoundation/FirearmToken#readme",
+  "dependencies": {
+    "openzeppelin-solidity": "1.10.0"
+  }
+}
